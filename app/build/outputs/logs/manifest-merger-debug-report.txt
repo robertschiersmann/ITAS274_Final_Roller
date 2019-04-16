@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\01cb5afeb2e6246eea5e0bb79ff5921a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\df034208f767065ab44f3b752593514d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e27b6eecca23685a0e9fd3b178c30ca9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\de4096f83b9484ee516e217fd3e51a4e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\d44c5f0e4cea3240ca559eee46d01c2f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\231dcc70ee4e49aa3e20479c4b0bda88\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d716159623f96c22e0e433028e5879a9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f6ee76879806bcc511da0b31d8e1930\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34f0f32b399143b275c3cb3e66c68c8c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a43a38101812e7728411d87d169f217c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5e6c2660d9bdd87eaf17f73ffcd587d6\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\8704dc5f01eb00639306fb0b39f4bbfa\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:3:5-78
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\01cb5afeb2e6246eea5e0bb79ff5921a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\01cb5afeb2e6246eea5e0bb79ff5921a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:13:5-19:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\df034208f767065ab44f3b752593514d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\df034208f767065ab44f3b752593514d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e27b6eecca23685a0e9fd3b178c30ca9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e27b6eecca23685a0e9fd3b178c30ca9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\de4096f83b9484ee516e217fd3e51a4e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\de4096f83b9484ee516e217fd3e51a4e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\231dcc70ee4e49aa3e20479c4b0bda88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\231dcc70ee4e49aa3e20479c4b0bda88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d716159623f96c22e0e433028e5879a9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d716159623f96c22e0e433028e5879a9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f6ee76879806bcc511da0b31d8e1930\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f6ee76879806bcc511da0b31d8e1930\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34f0f32b399143b275c3cb3e66c68c8c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34f0f32b399143b275c3cb3e66c68c8c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a43a38101812e7728411d87d169f217c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a43a38101812e7728411d87d169f217c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5e6c2660d9bdd87eaf17f73ffcd587d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5e6c2660d9bdd87eaf17f73ffcd587d6\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:11:9-40
+activity#rob.local.itas274_finalproject_keenanfichtler_robbieschiersmann.intro_page
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:12:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:13:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:15:27-74
+activity#rob.local.itas274_finalproject_keenanfichtler_robbieschiersmann.MainActivity
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:20:19-47
+activity#rob.local.itas274_finalproject_keenanfichtler_robbieschiersmann.history
+ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:name
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml:24:13-36
+uses-sdk
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\01cb5afeb2e6246eea5e0bb79ff5921a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\01cb5afeb2e6246eea5e0bb79ff5921a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\df034208f767065ab44f3b752593514d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\df034208f767065ab44f3b752593514d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e27b6eecca23685a0e9fd3b178c30ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e27b6eecca23685a0e9fd3b178c30ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\de4096f83b9484ee516e217fd3e51a4e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\de4096f83b9484ee516e217fd3e51a4e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\d44c5f0e4cea3240ca559eee46d01c2f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\d44c5f0e4cea3240ca559eee46d01c2f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\231dcc70ee4e49aa3e20479c4b0bda88\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\231dcc70ee4e49aa3e20479c4b0bda88\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d716159623f96c22e0e433028e5879a9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d716159623f96c22e0e433028e5879a9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f6ee76879806bcc511da0b31d8e1930\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f6ee76879806bcc511da0b31d8e1930\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34f0f32b399143b275c3cb3e66c68c8c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34f0f32b399143b275c3cb3e66c68c8c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a43a38101812e7728411d87d169f217c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a43a38101812e7728411d87d169f217c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5e6c2660d9bdd87eaf17f73ffcd587d6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5e6c2660d9bdd87eaf17f73ffcd587d6\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\8704dc5f01eb00639306fb0b39f4bbfa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.0.aar\8704dc5f01eb00639306fb0b39f4bbfa\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Morgan Schiersmann\AndroidStudioProjects\ITAS274_FinalProject\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\df034208f767065ab44f3b752593514d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\df034208f767065ab44f3b752593514d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e27b6eecca23685a0e9fd3b178c30ca9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e27b6eecca23685a0e9fd3b178c30ca9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\231dcc70ee4e49aa3e20479c4b0bda88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\231dcc70ee4e49aa3e20479c4b0bda88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d716159623f96c22e0e433028e5879a9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d716159623f96c22e0e433028e5879a9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f6ee76879806bcc511da0b31d8e1930\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f6ee76879806bcc511da0b31d8e1930\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34f0f32b399143b275c3cb3e66c68c8c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34f0f32b399143b275c3cb3e66c68c8c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a43a38101812e7728411d87d169f217c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\a43a38101812e7728411d87d169f217c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5e6c2660d9bdd87eaf17f73ffcd587d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\5e6c2660d9bdd87eaf17f73ffcd587d6\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\561b1631e0a133b3b03e88a4e5180643\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:11:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:14:9-18:19
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.1.0.aar\481ef80d943621eeaca0f5e5b69725b8\AndroidManifest.xml:16:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\7bdbe527ac9bac9d18677f2176491548\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\0bf788d12971e52922a2cfe25f6f78f4\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\48d25d0cfdae38f2bf57eba5e3decfa8\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Morgan Schiersmann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\eef4a5f7a285ecf2eb28e39953559576\AndroidManifest.xml:26:13-58

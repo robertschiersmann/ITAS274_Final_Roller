@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "554990740313",
+    "firebase_url": "https://gachadb-23c80.firebaseio.com",
+    "project_id": "gachadb-23c80",
+    "storage_bucket": "gachadb-23c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554990740313:android:7e9d722268529ae1",
+        "android_client_info": {
+          "package_name": "rob.local.itas274_finalproject_keenanfichtler_robbieschiersmann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554990740313-8e9gcgar6h1t43elui0d73csshkspjlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rob.local.itas274_finalproject_keenanfichtler_robbieschiersmann",
+            "certificate_hash": "082a2bd0a48cbedb53b63ea1f18c6ca69b1158c0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTWTlP-IYQvYFEmbECBEhV3ZeQZymquc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554990740313-g7l0fb5npvt2nkq02v5sjhhhm5et2815.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

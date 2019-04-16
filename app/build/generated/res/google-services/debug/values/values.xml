@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://gachadb-23c80.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">554990740313</string>
+    <string name="google_api_key" translatable="false">AIzaSyBHTWTlP-IYQvYFEmbECBEhV3ZeQZymquc</string>
+    <string name="google_app_id" translatable="false">1:554990740313:android:7e9d722268529ae1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBHTWTlP-IYQvYFEmbECBEhV3ZeQZymquc</string>
+    <string name="google_storage_bucket" translatable="false">gachadb-23c80.appspot.com</string>
+    <string name="project_id" translatable="false">gachadb-23c80</string>
+</resources>
