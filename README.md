@@ -3,6 +3,7 @@ Created by Robert Schiersmann & Keenan Fichtler
 # ITAS274_Final_Roller
 Final Project for our Android App Development course; features slot machine rolling with Firebase database login and roll history.
 Included are Activities for:
+
     1. intro_page.java; the initial login page 
         - This page connects to, and creates a database on Google Firebase
           - This database holds user credentials, and the roll results for each user.
